@@ -1,2 +1,2 @@
 
-[![diagram](diagram.svg?sanitize=false "Diagram")](diagram.svg)
+[![diagram](diagram.svg?raw=true "Diagram")](diagram.svg)
