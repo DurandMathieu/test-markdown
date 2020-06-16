@@ -1,2 +1,2 @@
 
-<img src="diagram.svg?raw=rue">
+<object type="image/svg+xml" data="diagram.svg"></object>
