@@ -1,2 +1,2 @@
 
-[![diagram](diagram.svg?raw=true "Diagram")](diagram.svg)
+![Test Image 1](diagram.svg)
