@@ -1,2 +1,2 @@
 
-<img src="diagram.svg">
+[image](diagram.svg?raw=true "Diagram")
